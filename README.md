@@ -17,4 +17,6 @@ I'm building Empty App. This page tracks the project's progress while developmen
 
 The early preview is implemented, and the current automated checks pass. The next milestone is device testing and refinement. A public release is still ahead.
 
+Improved project documentation and continuity. Automated checks continue to pass; device testing and refinement remain next.
+
 This repository contains public progress updates only. Source code, designs and detailed product plans remain private.
